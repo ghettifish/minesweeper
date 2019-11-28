@@ -1,0 +1,11 @@
+/Users/nicbovee/Projects/minesweeper/bin/Debug/netcoreapp3.0/minesweeper
+/Users/nicbovee/Projects/minesweeper/bin/Debug/netcoreapp3.0/minesweeper.deps.json
+/Users/nicbovee/Projects/minesweeper/bin/Debug/netcoreapp3.0/minesweeper.runtimeconfig.json
+/Users/nicbovee/Projects/minesweeper/bin/Debug/netcoreapp3.0/minesweeper.runtimeconfig.dev.json
+/Users/nicbovee/Projects/minesweeper/bin/Debug/netcoreapp3.0/minesweeper.dll
+/Users/nicbovee/Projects/minesweeper/bin/Debug/netcoreapp3.0/minesweeper.pdb
+/Users/nicbovee/Projects/minesweeper/obj/Debug/netcoreapp3.0/minesweeper.csprojAssemblyReference.cache
+/Users/nicbovee/Projects/minesweeper/obj/Debug/netcoreapp3.0/minesweeper.AssemblyInfoInputs.cache
+/Users/nicbovee/Projects/minesweeper/obj/Debug/netcoreapp3.0/minesweeper.AssemblyInfo.cs
+/Users/nicbovee/Projects/minesweeper/obj/Debug/netcoreapp3.0/minesweeper.dll
+/Users/nicbovee/Projects/minesweeper/obj/Debug/netcoreapp3.0/minesweeper.pdb
